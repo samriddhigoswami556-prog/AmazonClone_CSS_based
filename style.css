@@ -11,10 +11,12 @@ body {
 
 .navbar {
     height: 60px;
+    width: 100vw;
     background-color: black;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    position: fixed;
 }
 
 .nav-logo {
